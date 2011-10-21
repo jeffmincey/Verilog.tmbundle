@@ -6,6 +6,7 @@
 	<array>
 		<string>v</string>
 		<string>vh</string>
+		<string>sv</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^[^/]*-?(?!/)\s*(begin|^\s*case(x|z)?|^\s*module|^`ifdef)\b</string>
